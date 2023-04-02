@@ -9,7 +9,7 @@ Original file is located at
 # COTTON PRICE PREDICTION OF MAHARASHTRA(1 yr mah_1yr)
 """
 
-!pip install pmdarima
+pip install pmdarima
 
 # Commented out IPython magic to ensure Python compatibility.
 #IMPORTING ALL REQUIRED PACKAGES
