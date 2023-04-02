@@ -9,11 +9,10 @@ Original file is located at
 # COTTON PRICE PREDICTION OF MAHARASHTRA(1 yr mah_1yr)
 """
 
-pip install pmdarima
-
 # Commented out IPython magic to ensure Python compatibility.
 #IMPORTING ALL REQUIRED PACKAGES
 # %matplotlib inline
+import pmdarima
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
